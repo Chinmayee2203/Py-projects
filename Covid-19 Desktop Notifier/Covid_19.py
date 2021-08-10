@@ -40,7 +40,7 @@ while(1):
         #display notication for 3 seconds
         timeout = 3,
         )
-    #repeat the notification every 6 hours
+    #repeat the notification every 2 hours
     time.sleep(2*60*60)
 
 
